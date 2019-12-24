@@ -17,7 +17,7 @@
                     </tr>
                     <xsl:for-each select="root/result">
                         <xsl:sort select="make_id"/>
-                        <xsl:if test="make_id &lt; 100">
+                        <xsl:if test="make_id &gt; 100">
                             <tr>
                                 <td>
                                     <xsl:value-of select="make_id"/>
