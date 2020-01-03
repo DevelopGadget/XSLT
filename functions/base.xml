@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Base>
+    <Aditional>
+        <Name>
+            CM
+        </Name>
+        <Value>
+            200
+        </Value>
+    </Aditional>
+    <Aditional>
+        <Name>
+            CM
+        </Name>
+        <Value>
+            500
+        </Value>
+    </Aditional>
+    <Aditional>
+        <Name>
+            Other
+        </Name>
+        <Value>
+            200
+        </Value>
+    </Aditional>
+    <Aditional>
+        <Name>
+            Other
+        </Name>
+        <Value>
+            500
+        </Value>
+    </Aditional>
+</Base>
